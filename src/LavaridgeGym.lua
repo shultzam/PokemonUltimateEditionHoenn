@@ -1,4 +1,4 @@
-local gymButtonPos = {-7.1, 0, 10.4}
+local gymButtonPos = {-8.9, 0, 10.5}
 
 local gymData = nil
 local pokemonData = nil
