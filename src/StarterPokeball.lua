@@ -42,7 +42,7 @@ local customPokeballs = { "a927cf", "acd90d", "63bb92", "88b157", "8aaeef", "915
 local customEvoPokeballs = { "95fee8", "8a1c9a", "7f2cd7", "0d33b3", "8faab4" }
 local customLeadersArr = { "ab33b9", "f6be1f", "be2f56" }
 
-local buttonRelativePosition = { -29.90, 0, -41.80 }
+local buttonRelativePosition = { 17.50, 0, -46.50 }
 
 function onLoad()
     self.createButton({ --Apply settings button
